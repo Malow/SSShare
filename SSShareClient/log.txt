@@ -1,0 +1,7 @@
+
+Sat May 09 00:59:03 CEST 2015 - ssFolder located: D:\Games HDD\Steam\userdata\4709235\760\remote\107410\screenshots
+Sat May 09 00:59:04 CEST 2015 - Server connection is dead, reconnecting.
+Sat May 09 00:59:05 CEST 2015 - Connected to Server.
+Sat May 09 00:59:05 CEST 2015 - Server connection is dead, reconnecting.
+Sat May 09 00:59:06 CEST 2015 - Connected to Server.
+Sat May 09 00:59:06 CEST 2015 - Server connection is dead, reconnecting.
